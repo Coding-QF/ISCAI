@@ -25,5 +25,6 @@ Create an `appointments` table with at least:
 - `/` visitor appointment form
 - `/admin` admin dashboard list
 - `/api/appointments` GET/POST API
+- `/login` email/password login
 
 Designed for direct deployment to Vercel.
